@@ -1,3 +1,9 @@
-.h2{
+.footertitle{
     background-color: red;
+    padding: 10px;
+    text-align: center;
+}
+.footer{
+    background-color: bisque;
+    padding: 20px;
 }

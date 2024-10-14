@@ -1,11 +1,12 @@
 import Footerstyles from "./Footer.module.css";
+import React from "react";
 
 
 const Footer = () =>{
     return(
         <div>
-                <footer className={Footerstyles.h2}>
-                <h2> This is a Footer</h2>
+                <footer className={Footerstyles.footer}>
+                <h1 className={Footerstyles.footertitle}> This is a Footer Section</h1>
                 </footer>
     
 
